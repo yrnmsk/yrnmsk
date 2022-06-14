@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://discord.com/users/239381559482777600" >
-  <img src="https://lanyard-profile-readme.vercel.app/api/239381559482777600"  />
+<a href="https://discord.com/users/239381559482777600">
+  <img src="https://lanyard-profile-readme.vercel.app/api/239381559482777600" />
 </a>
 
 <br/>
