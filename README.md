@@ -3,7 +3,7 @@
 
   <br/>
 
-  <a href="https://wakatime.com/@yrnmsk" target="_blank"><img alt="All Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yrnmsk&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats"></a>  
+  <a href="https://wakatime.com/@yrnmsk" target="_blank"><img alt="All Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yrnmsk&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=All%20Time%20Stats"></a>  
 
 </div>
 
