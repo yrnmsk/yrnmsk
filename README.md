@@ -8,3 +8,4 @@
 </div>
 
 <a href="https://wakatime.com/@7720b3b1-8bcd-44d3-92c8-1cbdb9229fab"><img alt="wakatime" src="https://wakatime.com/badge/user/7720b3b1-8bcd-44d3-92c8-1cbdb9229fab.svg"></a>
+<a href="https://hits-app.vercel.app"><img alt="hits" src="https://hits-app.vercel.app/hits?url=https://github.com/yrnmsk&bgLeft=444444&bgRight=575fff&label=visits"></a>
