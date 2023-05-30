@@ -37,14 +37,14 @@
                   .o+`
                  `ooo/
                 `+oooo:
-               `+oooooo:                       ╭─ Operating System     -> Arch x86_64
+               `+oooooo:                       ╭─ OS, Distro           -> Linux x86_64, Arch
                -+oooooo+:                      ├─ Editor               -> VSCode / NeoVim
              `/:-:++oooo+:                     ├─ Browser              -> Firefox
             `/++++/+++++++:                    ├─ Shell                -> ZSH
            `/++++++++++++++:                   ├─ Resource Monitor     -> Btop
-          `/+++ooooooooooooo/`                 ├─ Desktop Environment  -> None
+          `/+++ooooooooooooo/`                 ├─ Desktop Environment  -> none
          ./ooosssso++osssssso+`                ├─ Window Manager       -> Hyprland
-        .oossssso-````/ossssss+`               ├─ Terminal Emulator    -> kitty
+        .oossssso-````/ossssss+`               ├─ Terminal Emulator    -> Kitty
        -osssssso.      :ssssssso.              ├─ Theme                -> Tokyo Night Storm
       :osssssss/        osssso+++.             ├─ Icon                 -> Tokyo Night Moon
      /ossssssss/        +ssssooo/-             ╰─ Font                 -> Caskaydia Cove Nerd Font 10
