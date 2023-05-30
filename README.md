@@ -25,6 +25,10 @@
   <a href="https://wakatime.com/@yrnmsk" target="_blank"><img alt="All Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yrnmsk&border_radius=16px&theme=dark&bg_color=1e1e2e&border_color=89b4fa&icon_color=89b4fa&custom_title=All%20Time%20Stats&range=all_time" /></a>
 </div>
 
+<br />
+<hr />
+<br />
+
 <details>
   <summary><pre>yrnmsk@yrnmsk $ Setup</pre></summary>
 
