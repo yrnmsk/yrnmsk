@@ -8,8 +8,8 @@
   <br />
 
   <h3>
-    Andre Barcala (Youka)
-    <small><sup><kbd><a href="https://bento.me/yrnmsk">yrnmsk@links</a></kbd></sup></small>
+    Andre Barcala
+    <a href="https://bento.me/yrnmsk">(Youka)</a>
   </h3>
   <small>Musician | Software Engineer | Digital Artist</small>
 </div>
